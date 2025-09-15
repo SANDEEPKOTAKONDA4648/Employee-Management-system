@@ -1,0 +1,1 @@
+A SQL-based Employee Management System that handles employee records, roles, departments, and payroll. It includes CRUD operations, relational schema design, and optimized queries for efficient data handling. Ideal for HR workflows and organizational data management.
